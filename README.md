@@ -1,2 +1,6 @@
-# EVCS_optimal_power_supply
-EVCS optimal power supply 
+# Electric Vehicle Charging Station Power Supply Optimization with V2X Capabilities Based on Mixed-Integer Linear Programming
+## Input data
+
+This repository contains input data for paper "Electric Vehicle Charging Station Power Supply Optimization with V2X Capabilities Based on Mixed-Integer Linear Programming".
+The paper focuses on optimizing the power supply and operation of EVCS by considering strategic investments in grid connection, photovoltaic plants, and battery energy storage. The research explores the potential savings derived from reduced energy/charging costs, along with the reduction in peak power expenses for different power supply options. In addition to this, the research explores the effect of different EV charging strategies as well as EVCS grid connection on optimal investments and total system costs. The combined investment
+and energy management problem is focused on determining the optimal EVCS power supply and operation while minimizing total investment and operation expenditures over the project lifetime. The underlying optimization problems for different supply scenarios are cast as mixed-integer linear programming problems that can be solved efficiently. The results show the influence of different grid connection options and EV charging strategies on the joint operation and costs of EVCS and existing buildings.
